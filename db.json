@@ -1,4 +1,6 @@
 {
-  "ssid": "Rainbow",
-  "passphrase": "chocojerry"
+  "networks": [{
+    "ssid": "Rainbow",
+    "passphrase": "chocojerry"
+  }]
 }
